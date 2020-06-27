@@ -13,7 +13,7 @@ void draw() {
    
   if(mousePressed){
     fill(200,200,200);
-    ellipse(200,200,20,20);
+    ellipse(75,200,50,50);
 
     
   
