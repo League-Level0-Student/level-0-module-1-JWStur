@@ -19,7 +19,7 @@ void setup() {
 void draw() {
   if (mousePressed==true){
     fill(#F52326);
-    ellipse(200,200,50,50);
+    ellipse(mouseX,mouseY,50,50);
    /* sound.play();
     sound.rewind();
 */
